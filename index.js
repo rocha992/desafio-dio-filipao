@@ -1,5 +1,7 @@
+console.log ("[Em nossa classificação de herois] ")
+
 var nomeDoHeroi = "Super DIO";
-var xpDoHeroi = 5000;
+var xpDoHeroi = 50000;
 
 var nivelDoHeroi;
 
