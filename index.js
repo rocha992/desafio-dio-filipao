@@ -30,4 +30,4 @@ switch (true) {
         break;
 }
 
-console.log("O " + nomeDoHeroi + " está no nível " + nivelDoHeroi);
+console.log("O " + nomeDoHeroi + " é do nível " + nivelDoHeroi);
